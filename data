@@ -1,0 +1,22 @@
+SQL   : est utilisé pour les systèmes critiques où la cohérence stricte est cruciale 
+
+NoSQL : est utilisé là où la flexibilité et la rapidité sont nécessaires
+
+Modèle de données	:
+SQL   :Relationnel (tables, lignes, colonnes)	
+NoSQL : Non relationnel (documents, colonnes, graphiques, clés-valeurs)
+
+Schéma	:
+SQL   :Schéma fixe (chaque table à des colonnes fixes)	
+NoSQL :Schéma flexible (les documents peuvent avoir des champs différents)
+
+Type de données :	
+SQL   :Données bien structurées	
+NoSQL :Données semi-structurées ou non structurées
+
+Rapports:
+SQL   :Relations (clés primaires, clés étrangères)	
+NoSQL :Pas de relations strictes, mais les documents peuvent contenir des sous-documents
+Vitesse :
+SQL   :Moins performant pour les grands volumes de données	
+NoSQL :Plus rapide pour des volumes massifs (Big Data)
